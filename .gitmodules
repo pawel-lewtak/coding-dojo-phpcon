@@ -1,0 +1,12 @@
+[submodule "coding-dojo"]
+	path = coding-dojo
+	url = https://github.com/pwlap/coding-dojo
+[submodule "coding-dojo-phpcon"]
+	path = coding-dojo-phpcon
+	url = https://github.com/thirtyseven37/coding-dojo-phpcon
+[submodule "coding-dojo-2-phpcon"]
+	path = coding-dojo-2-phpcon
+	url = https://github.com/grisha87/coding-dojo-phpcon
+[submodule "coding-dojos"]
+	path = coding-dojos
+	url = https://github.com/co-IT/coding-dojos
